@@ -1,0 +1,12 @@
+{
+  "name": "quiz-ecke",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kleine Multiplayer-Quiz-App",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
